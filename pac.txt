@@ -1,5 +1,16 @@
 var __USERRULES__ = [];
 var __RULES__ = [
+    ".github.io",
+    "||github.io:,
+    ".hhgal.com",
+    "||hhgal.com",
+    ".maomiav.com",
+    "||maomiav.com",
+    ".wenku8.net",
+    "||wenku8.net",
+    ".zodgame.xyz",
+    "||zodgame.xyz",
+
     "|http://85.17.73.31/",
     "||agnesb.fr",
     "||akiba-web.com",
